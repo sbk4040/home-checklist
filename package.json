@@ -1,5 +1,5 @@
 
-/ package.json
+// package.json
 export const packageJson = `{
   "name": "home-orientation-checklist",
   "version": "1.0.0",
